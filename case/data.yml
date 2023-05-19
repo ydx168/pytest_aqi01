@@ -1,0 +1,6 @@
+test_search:
+  url: /anime
+  method: get
+  params:
+    spm_id_from: 333.1007.0.0
+
