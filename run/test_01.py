@@ -16,5 +16,4 @@ class TestBili(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    te = TestBili()
-    te.test_search()
+    unittest.main(verbosity=2)
