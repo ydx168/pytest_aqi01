@@ -14,3 +14,4 @@ def request_check(func):
         logging.info(f'接口{args[1]} 请求成功,返回值为：{re.text}')
         return re
     return check
+
